@@ -15,5 +15,7 @@ in April 2018.
 The software source code underlying the live site can be found in the following repository: https://github.com/NESCent/feedingdb
 
 It is also archived on Zenodo:
-* https://doi.org/10.5281/zenodo.18811 for the original release, and
-* https://doi.org/10.5281/zenodo.1238956 for the release with the upgrade to Django 1.8.7 
+* [![DOI for FEED source code v2.0.1](https://zenodo.org/badge/DOI/10.5281/zenodo.18811.svg)](https://doi.org/10.5281/zenodo.18811) for the original release, and
+* [![DOI for FEED source code v2.1.0](https://zenodo.org/badge/DOI/10.5281/zenodo.1238956.svg)](https://doi.org/10.5281/zenodo.1238956) for the release with the upgrade to Django 1.8.7 
+
+The data content of the FEED database has also been archived at Zenodo: [![DOI for FEED data content](https://zenodo.org/badge/DOI/10.5281/zenodo.1229320.svg)](https://doi.org/10.5281/zenodo.1229320)
